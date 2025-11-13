@@ -1,8 +1,15 @@
-# React + Vite
+# Travel Management System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A web-based platform that allows users to **personalize tour itineraries**, **estimate travel budgets**, and **manage their travel plans** efficiently.  
+The system provides a complete full-stack solution with an interactive frontend, robust backend logic, and database integration.
 
-Currently, two official plugins are available:
+## 🚀 Features
+- Create and customize tour itineraries  
+- Estimate travel costs and budgets  
+- Manage and track travel plans  
+- Interactive and responsive user interface  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🧩 Technologies Used
+- **Frontend:** React.js, CSS  
+- **Backend:** PHP  
+- **Database:** MySQL  
